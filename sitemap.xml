@@ -1,97 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-     <loc>https://badoo.github.io/mvicore/</loc>
+     <loc>https://badoo.github.io/MVICore/</loc>
      <lastmod>2019-04-13</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://badoo.github.io/mvicore/features/coreconcepts/</loc>
+     <loc>https://badoo.github.io/MVICore/features/coreconcepts/</loc>
      <lastmod>2019-04-13</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://badoo.github.io/mvicore/features/reducerfeature/</loc>
+     <loc>https://badoo.github.io/MVICore/features/reducerfeature/</loc>
      <lastmod>2019-04-13</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://badoo.github.io/mvicore/features/actorreducerfeature/</loc>
+     <loc>https://badoo.github.io/MVICore/features/actorreducerfeature/</loc>
      <lastmod>2019-04-13</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://badoo.github.io/mvicore/features/fullfeatured/</loc>
+     <loc>https://badoo.github.io/MVICore/features/fullfeatured/</loc>
      <lastmod>2019-04-13</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://badoo.github.io/mvicore/features/bootstrappers/</loc>
+     <loc>https://badoo.github.io/MVICore/features/bootstrappers/</loc>
      <lastmod>2019-04-13</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://badoo.github.io/mvicore/features/news/</loc>
+     <loc>https://badoo.github.io/MVICore/features/news/</loc>
      <lastmod>2019-04-13</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://badoo.github.io/mvicore/binder/binder/</loc>
+     <loc>https://badoo.github.io/MVICore/binder/binder/</loc>
      <lastmod>2019-04-13</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://badoo.github.io/mvicore/binder/binding/</loc>
+     <loc>https://badoo.github.io/MVICore/binder/binding/</loc>
      <lastmod>2019-04-13</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://badoo.github.io/mvicore/binder/android/</loc>
+     <loc>https://badoo.github.io/MVICore/binder/android/</loc>
      <lastmod>2019-04-13</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://badoo.github.io/mvicore/middlewares/middleware/</loc>
+     <loc>https://badoo.github.io/MVICore/middlewares/middleware/</loc>
      <lastmod>2019-04-13</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://badoo.github.io/mvicore/middlewares/wrapping/</loc>
+     <loc>https://badoo.github.io/MVICore/middlewares/wrapping/</loc>
      <lastmod>2019-04-13</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://badoo.github.io/mvicore/middlewares/configuration/</loc>
+     <loc>https://badoo.github.io/MVICore/middlewares/configuration/</loc>
      <lastmod>2019-04-13</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://badoo.github.io/mvicore/middlewares/loggingmiddleware/</loc>
+     <loc>https://badoo.github.io/MVICore/middlewares/loggingmiddleware/</loc>
      <lastmod>2019-04-13</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://badoo.github.io/mvicore/middlewares/playbackmiddleware/</loc>
+     <loc>https://badoo.github.io/MVICore/middlewares/playbackmiddleware/</loc>
      <lastmod>2019-04-13</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://badoo.github.io/mvicore/demoproject/</loc>
+     <loc>https://badoo.github.io/MVICore/demoproject/</loc>
      <lastmod>2019-04-13</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://badoo.github.io/mvicore/bestpractices/</loc>
+     <loc>https://badoo.github.io/MVICore/bestpractices/</loc>
      <lastmod>2019-04-13</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://badoo.github.io/mvicore/extras/ttdui/</loc>
+     <loc>https://badoo.github.io/MVICore/extras/ttdui/</loc>
      <lastmod>2019-04-13</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://badoo.github.io/mvicore/extras/intellijplugin/</loc>
+     <loc>https://badoo.github.io/MVICore/extras/intellijplugin/</loc>
      <lastmod>2019-04-13</lastmod>
      <changefreq>daily</changefreq>
     </url>
